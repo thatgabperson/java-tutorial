@@ -1,3 +1,3 @@
 # java-tutorial
-Me learning Java
+Me learning Java \n
 Experimenting!
